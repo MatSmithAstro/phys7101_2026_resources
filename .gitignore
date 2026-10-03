@@ -1,0 +1,14 @@
+# Instructor material: never push solutions to this (public) repository
+*_SOLUTIONS*.ipynb
+*_solutions*.ipynb
+*-withmarks*.ipynb
+solutions/
+
+# Jupyter / editor clutter
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
