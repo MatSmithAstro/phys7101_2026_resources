@@ -2,7 +2,7 @@
 
 **Course materials for the Lancaster University module PHYS7101 "Numerical Methods and Data Analysis": 2026/2027**
 
-Course convenors: Mat Smith (mat.smith@lancaster.ac.uk) and Aneta Stefanovska
+Course convenors: Mat Smith (mat.smith@lancaster.ac.uk) and Aneta Stefanovska (aneta@lancaster.ac.uk)
 
 ***
 
@@ -32,11 +32,11 @@ This module introduces key techniques in numerical methods and data analysis use
 | Exercise 3 | Weeks 7–10 | 40% |
 | In-class assessment | Weeks 6–7 and 8–9 | 10% |
 
-Deadlines and submission links are on Moodle. Each exercise is submitted as an already-run, annotated Jupyter notebook, a short interpretive statement (max. 300 words), and the mandatory GenAI-usage declaration. See `workshops/week1/week1_setup.ipynb` for details.
+Deadlines and submission links are on Moodle. Exercises 1 and 2 are each submitted as an already-run, annotated Jupyter notebook and a short interpretive statement (max. 300 words). Exercise 3 is an annotated notebook and a 5-page report covering the problem, the methodology, the key results and what they mean. Every submission also needs the mandatory GenAI-usage declaration. See `workshops/week1/week1_setup.ipynb` for details.
 
 ## Using these notebooks
 
-Everything runs in [Google Colab](https://colab.research.google.com/): click an **Open in Colab** badge below, then immediately use **File → Save a copy in Drive** so your work is kept. Each notebook loads its data directly from this repository, so nothing needs downloading.
+Everything runs in [Google Colab](https://colab.research.google.com/): click an **Open in Colab** badge below, then immediately use **File → Save a copy in Drive** so your work is kept. Each notebook loads its data directly from this repository, so nothing needs to be downloaded.
 
 To work locally instead, clone or download the whole repository; the notebooks will then read data from each week's `datasets/` folder.
 
