@@ -16,3 +16,6 @@ __pycache__/
 # Scratch notebooks and Office lock files
 Untitled*.ipynb
 ~$*
+
+# Drafts that are not ready to publish
+drafts/
