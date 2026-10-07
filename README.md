@@ -55,3 +55,14 @@ Work through these in order:
 | `week1_revision.ipynb` | NumPy, pandas and Matplotlib refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_revision.ipynb) |
 | `week1_foundations.ipynb` | Floating-point error, catastrophic cancellation, algorithmic complexity; take-home exercise | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_foundations.ipynb) |
 | `week1_euler_rk4_lab.ipynb` | Euler vs RK4: which one do you trust? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_euler_rk4_lab.ipynb) |
+
+## Week 2 workshop
+
+Work through the first three in order; keep the fourth as a reference:
+
+| Notebook | Content | |
+| --- | --- | --- |
+| `week2_python_functions.ipynb` | Start here (15 min): passing functions to functions, `lambda`, `*args`, errors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_python_functions.ipynb) |
+| `week2_root_finding.ipynb` | Bisection and Newton–Raphson on Kepler's equation: convergence, breaking Newton, SciPy, orbits from Kepler vs RK4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_root_finding.ipynb) |
+| `week2_fitting.ipynb` | Least squares and χ²: fitting the Lancaster Quay tide, `curve_fit`, χ² scans, judging a fit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_fitting.ipynb) |
+| `week2_code_and_plots.ipynb` | Reference: writing good code and making good plots. Use it for Exercise 1 and beyond | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_code_and_plots.ipynb) |
