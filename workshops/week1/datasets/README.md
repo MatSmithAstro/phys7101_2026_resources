@@ -43,7 +43,7 @@ The live API only keeps recent readings, so a longer historical record needs the
 
 ## `pandas_practice_dataset.csv`
 
-- **Source:** carried over from PHYS465. It is the "dirty data" example from the W3Schools pandas data-cleaning tutorial.
+- **Source:** It is the "dirty data" example from the W3Schools pandas data-cleaning tutorial.
 - **Columns:** `Duration` (minutes), `Date`, `Pulse`, `Maxpulse` (beats per minute), `Calories`.
 - **Deliberate problems:** dates wrapped in quote marks, one date written as `20201226`, one missing date, a `Duration` of 450 (almost certainly 45), a duplicated row (12 Dec), one row with `Maxpulse` below `Pulse`, and two missing `Calories` values. These are what make revision Exercise 3 need cleaning first. **Don't tidy the file.**
 

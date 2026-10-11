@@ -13,6 +13,6 @@ An identical copy of the Week 1 file, so each week's folder is self-contained. S
 
 ## `graduate_earnings.csv`
 
-- **Source:** carried over from PHYS465 (Week 11). Median salaries are from the UK government's graduate labour market statistics.
+- **Source:** Median salaries are from the UK government's graduate labour market statistics.
 - **Columns:** `year`, `gender` (`all`, `male`, `female`), `graduate_type` (`graduate`, `non-graduate`, `postgraduate`), `income` (median salary, £, nominal), `income_err` (uncertainty, £).
 - 126 rows: 14 years × 3 genders × 3 graduate types.
