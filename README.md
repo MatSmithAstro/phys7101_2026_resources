@@ -66,3 +66,18 @@ Work through the first three in order; keep the fourth as a reference:
 | `week2_root_finding.ipynb` | Bisection and Newton–Raphson on Kepler's equation: convergence, breaking Newton, SciPy, orbits from Kepler vs RK4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_root_finding.ipynb) |
 | `week2_fitting.ipynb` | Least squares and χ²: fitting the Lancaster Quay tide, `curve_fit`, χ² scans, judging a fit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_fitting.ipynb) |
 | `week2_code_and_plots.ipynb` | Reference: writing good code and making good plots. Use it for Exercise 1 and beyond | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_code_and_plots.ipynb) |
+
+## Week 3 workshop
+
+Each notebook starts with a short guide to the core sections, what to do first if you are working on Exercise 1, and what to catch up on if you are behind:
+
+| Notebook | Content | |
+| --- | --- | --- |
+| `week3_interpolation.ipynb` | Filling gaps in the Mauna Loa CO₂ record, Runge's phenomenon, extrapolation and its traps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week3/week3_interpolation.ipynb) |
+| `week3_derivatives_integrals.ipynb` | Finite differences and round-off, the CO₂ growth rate, differentiating noisy data, trapezoid and Simpson, the pendulum period | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week3/week3_derivatives_integrals.ipynb) |
+
+## Coursework
+
+| Exercise | Brief and starting notebook | |
+| --- | --- | --- |
+| Exercise 1: the large-amplitude pendulum (due 4pm, Friday 23 October) | [`coursework/exercise1`](coursework/exercise1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/coursework/exercise1/exercise1_pendulum.ipynb) |
