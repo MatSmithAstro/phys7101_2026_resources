@@ -82,7 +82,7 @@ Start with the Python toolkit if masks, random numbers, `scipy.stats` or pandas 
 
 | Notebook | Content | |
 | --- | --- | --- |
-| `week4_python_toolkit.ipynb` | Start here (15 min): masks and slices, reproducible random numbers, `scipy.stats`, one row per group with pandas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_python_toolkit.ipynb) |
+| `week4_python_toolkit.ipynb` | Start here (15 min): masks and slices, reproducible random numbers, `scipy.stats`, one row per group with pandas; then six optional practice exercises | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_python_toolkit.ipynb) |
 | `week4_how_sure.ipynb` | How sure are we? Cavendish's density of the Earth, glitches in a time-ordered record, Michelson's speed of light; optional: propagating uncertainty into g by Monte Carlo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_how_sure.ipynb) |
 
 ## Coursework
