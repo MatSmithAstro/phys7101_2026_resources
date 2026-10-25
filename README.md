@@ -76,8 +76,17 @@ Each notebook starts with a short guide to the core sections, what to do first i
 | `week3_interpolation.ipynb` | Filling gaps in the Mauna Loa CO₂ record, Runge's phenomenon, extrapolation and its traps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week3/week3_interpolation.ipynb) |
 | `week3_derivatives_integrals.ipynb` | Finite differences and round-off, the CO₂ growth rate, differentiating noisy data, trapezoid and Simpson, the pendulum period | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week3/week3_derivatives_integrals.ipynb) |
 
+## Week 4 workshop
+
+Start with the Python toolkit if masks, random numbers, `scipy.stats` or pandas tables are new to you. The main notebook starts with a short guide to its core sections; everything marked *Optional* can wait.
+
+| Notebook | Content | |
+| --- | --- | --- |
+| `week4_python_toolkit.ipynb` | Start here (15 min): masks and slices, reproducible random numbers, `scipy.stats`, one row per group with pandas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_python_toolkit.ipynb) |
+| `week4_how_sure.ipynb` | How sure are we? Cavendish's density of the Earth, glitches in a time-ordered record, Michelson's speed of light; optional: propagating uncertainty into g by Monte Carlo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_how_sure.ipynb) |
+
 ## Coursework
 
 | Exercise | Brief and starting notebook | |
 | --- | --- | --- |
-| Exercise 1: the large-amplitude pendulum (due 4pm, Friday 23 October) | [`coursework/exercise1`](coursework/exercise1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/coursework/exercise1/exercise1_pendulum.ipynb) |
+| Exercise 1: the large-amplitude pendulum (due 4pm, Friday 30 October) | [`coursework/exercise1`](coursework/exercise1) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/coursework/exercise1/exercise1_pendulum.ipynb) |
