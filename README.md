@@ -23,6 +23,8 @@ This module introduces key techniques in numerical methods and data analysis use
 | 9 | Method Selection |
 | 10 | Neural Networks and Scientific Data Analysis |
 
+**Lecture slides** are in [`lectures/`](lectures). The **[glossary](lectures/PHYS7101_glossary.pdf)** explains the terms used in the lectures, with the lecture where each is introduced: a good place to look when a word in a notebook or brief is unfamiliar.
+
 ## Assessment
 
 | Component | Coverage | Weight |
@@ -44,6 +46,14 @@ To work locally instead, clone or download the whole repository; the notebooks w
 
 Keep one logbook for the whole module, starting in Week 1. The recommended format is a Google Doc: **[make your own copy of the template](https://docs.google.com/document/d/1sATUC_XWqk_ZO6NPm3LnXH4TAN1N3lxo4Oj86kBlJVs/copy)**. You're welcome to adapt it to another format; there are also [Word/OneNote](logbook/logbook_template.docx) and [notebook](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/logbook/logbook_template.ipynb) versions. See Section 6 of `week1_setup.ipynb` for what it should contain.
 
+## Python foundations (catch-up, any time)
+
+If the Python in the labs feels like too much at once, this notebook practises the ideas the module uses most, **one at a time**, each with a short exercise and a number to check: arrays, the copy trap, slicing, masks, loops, functions, plots and just enough pandas. Do a section (10–15 minutes) whenever it helps.
+
+| Notebook | Content | |
+| --- | --- | --- |
+| `python_foundations.ipynb` | Nine short sections, about 25 small exercises with checks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/python_foundations/python_foundations.ipynb) |
+
 ## Week 1 workshop
 
 Work through these in order:
@@ -53,6 +63,7 @@ Work through these in order:
 | `week1_setup.ipynb` | Start here: Colab, notebooks, Markdown, logbooks, submitting work, GenAI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_setup.ipynb) |
 | `week1_tidal_hook.ipynb` | Is this signal or noise? Real Lancaster Quay tidal data; describing data and distributions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_tidal_hook.ipynb) |
 | `week1_revision.ipynb` | NumPy, pandas and Matplotlib refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_revision.ipynb) |
+| `week1_revision_worked.ipynb` | Worked solutions to the Python refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_revision_worked.ipynb) |
 | `week1_foundations.ipynb` | Floating-point error, catastrophic cancellation, algorithmic complexity; take-home exercise | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_foundations.ipynb) |
 | `week1_euler_rk4_lab.ipynb` | Euler vs RK4: which one do you trust? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_euler_rk4_lab.ipynb) |
 
@@ -63,9 +74,11 @@ Work through the first three in order; keep the fourth as a reference:
 | Notebook | Content | |
 | --- | --- | --- |
 | `week2_python_functions.ipynb` | Start here (15 min): passing functions to functions, `lambda`, `*args`, errors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_python_functions.ipynb) |
+| `week2_python_functions_worked.ipynb` | Worked solutions to the functions toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_python_functions_worked.ipynb) |
 | `week2_root_finding.ipynb` | Bisection and Newton–Raphson on Kepler's equation: convergence, breaking Newton, SciPy, orbits from Kepler vs RK4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_root_finding.ipynb) |
 | `week2_fitting.ipynb` | Least squares and χ²: fitting the Lancaster Quay tide, `curve_fit`, χ² scans, judging a fit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_fitting.ipynb) |
 | `week2_code_and_plots.ipynb` | Reference: writing good code and making good plots. Use it for Exercise 1 and beyond | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_code_and_plots.ipynb) |
+| `week2_code_and_plots_worked.ipynb` | Worked solutions to the code-and-plots reference | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_code_and_plots_worked.ipynb) |
 
 ## Week 3 workshop
 
