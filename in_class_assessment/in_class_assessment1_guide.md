@@ -10,7 +10,7 @@ It is not a test of whether your answers are right, and you won't be asked to wr
 
 # What to bring
 
-- Your laptop, with your **Exercise 2 notebook open and already run**, so the outputs are visible.
+- Your **Exercise 2 notebook, open and already run**, so the outputs are visible: on your own laptop, or on the lab computer you're working at.
 - Your **logbook**, if you keep a separate one. If your notes are in the notebook itself (the *Working log* cell at the top of the Exercise 2 notebook, or Markdown cells between your code), that's fine: we will go through the notebook with you.
 
 # What we will ask about
@@ -52,11 +52,11 @@ At this level D is a fail. If you have kept going with Exercise 2 and can explai
 
 Talking about the exercise with others is encouraged; the work you submit, and what you explain in this conversation, must be your own. If you worked closely with someone, that's fine: we'll ask *you* to explain *your* choices. The same applies to GenAI: you must be able to explain every line you use.
 
-Conversations happen one at a time, away from the main tables. Please keep working at your seat until you're called, rather than waiting nearby.
+Conversations happen one at a time. Please keep working at your seat until it's your turn, rather than waiting nearby, and if a conversation is happening at the next computer, carry on with your own work.
 
 # On the day
 
-There is no sign-up: **everyone is assessed during the Week 6 lab.** Come to the lab as usual and keep working on Exercise 2; we will call you over one at a time.
+There is no sign-up: **everyone is assessed during the Week 6 lab.** Come to the lab as usual and keep working on Exercise 2 until it's your turn. **If you're working on your own laptop,** we'll call you over: bring the laptop with you. **If you're using a lab computer,** we'll come to you.
 
 **If you can't make the lab, or need a different arrangement** (for example, adjustments that cover oral or in-person assessment, or a quieter room), **email Mat (mat.smith@lancaster.ac.uk) as soon as you can, and by Thursday 5 November.** He will arrange a separate session with you. If you're not sure whether this applies to you, ask Mat or Emily.
 
