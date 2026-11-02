@@ -34,6 +34,8 @@ This module introduces key techniques in numerical methods and data analysis use
 | Exercise 3 | Weeks 7–10 | 40% |
 | In-class assessment | Weeks 6–7 and 8–9 | 10% |
 
+**In-class assessment 1** (Week 6 lab, Monday 9 November): [what to expect, how to prepare, and how it is marked](in_class_assessment/in_class_assessment1_guide.md).
+
 Deadlines and submission links are on Moodle. Exercises 1 and 2 are each submitted as an already-run, annotated Jupyter notebook and a short interpretive statement (max. 300 words). Exercise 3 is an annotated notebook and a 5-page report covering the problem, the methodology, the key results and what they mean. Every submission also needs the mandatory GenAI-usage declaration. See `workshops/week1/week1_setup.ipynb` for details.
 
 ## Using these notebooks
