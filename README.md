@@ -98,6 +98,15 @@ Start with the Python toolkit if masks, random numbers, `scipy.stats` or pandas 
 | `week4_python_toolkit.ipynb` | Start here (15 min): masks and slices, reproducible random numbers, `scipy.stats`, one row per group with pandas; then six optional practice exercises | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_python_toolkit.ipynb) |
 | `week4_how_sure.ipynb` | How sure are we? Cavendish's density of the Earth, glitches in a time-ordered record, Michelson's speed of light; optional: propagating uncertainty into g by Monte Carlo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_how_sure.ipynb) |
 
+## Week 5 workshop
+
+Start with the Python toolkit if `rfft`, `spectrogram`, `welch` or `np.roll` are new to you. The main notebook starts with a short guide to its core sections; everything marked *Optional* can wait. Every signal is simulated, so you can check your methods against a known answer before Exercise 2.
+
+| Notebook | Content | |
+| --- | --- | --- |
+| `week5_python_toolkit.ipynb` | Start here (15 min): spectra with `rfft`, spectra in windows and their average (`spectrogram`, `welch`), uneven times to a regular grid, shifting a signal with `np.roll`, timing code; then optional practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week5/week5_python_toolkit.ipynb) |
+| `week5_rhythms.ipynb` | Rhythms: are successive values independent? Which frequencies, and when (the short-time Fourier transform and averaged spectra); from beat times to a regular series; is a relationship real? (cross-correlation and surrogates); optional: bootstrap for groups, the tide | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week5/week5_rhythms.ipynb) |
+
 ## Coursework
 
 | Exercise | Brief and starting notebook | |
