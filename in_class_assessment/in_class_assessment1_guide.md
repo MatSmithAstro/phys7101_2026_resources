@@ -4,7 +4,7 @@
 
 # What it is
 
-A short conversation with a member of staff (Mat or one of the PGTAs) about the work you are doing at the moment. In Week 6 that will almost certainly be **Exercise 2**: by then you should have done at least Tasks 1–3. If you have barely started Exercise 2, you can talk about a lab notebook you have worked through (Week 4 or Week 5) instead.
+A short conversation with a member of staff (Aneta or one of the PGTAs) about the work you are doing at the moment. In Week 6 that will almost certainly be **Exercise 2**: by then you should have done at least Tasks 1–3. If you have barely started Exercise 2, you can talk about a lab notebook you have worked through (Week 4 or Week 5) instead.
 
 It is not a test of whether your answers are right, and you won't be asked to write code. We want to hear **what you did, why you chose to do it that way, and what you would do next**.
 
