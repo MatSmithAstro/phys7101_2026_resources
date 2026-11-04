@@ -67,7 +67,9 @@ Work through these in order:
 | `week1_revision.ipynb` | NumPy, pandas and Matplotlib refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_revision.ipynb) |
 | `week1_revision_worked.ipynb` | Worked solutions to the Python refresher | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_revision_worked.ipynb) |
 | `week1_foundations.ipynb` | Floating-point error, catastrophic cancellation, algorithmic complexity; take-home exercise | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_foundations.ipynb) |
+| `week1_foundations_worked.ipynb` | Worked solutions to the numerical foundations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_foundations_worked.ipynb) |
 | `week1_euler_rk4_lab.ipynb` | Euler vs RK4: which one do you trust? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_euler_rk4_lab.ipynb) |
+| `week1_euler_rk4_lab_worked.ipynb` | Worked solutions to Euler vs RK4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week1/week1_euler_rk4_lab_worked.ipynb) |
 
 ## Week 2 workshop
 
@@ -78,7 +80,9 @@ Work through the first three in order; keep the fourth as a reference:
 | `week2_python_functions.ipynb` | Start here (15 min): passing functions to functions, `lambda`, `*args`, errors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_python_functions.ipynb) |
 | `week2_python_functions_worked.ipynb` | Worked solutions to the functions toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_python_functions_worked.ipynb) |
 | `week2_root_finding.ipynb` | Bisection and Newton–Raphson on Kepler's equation: convergence, breaking Newton, SciPy, orbits from Kepler vs RK4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_root_finding.ipynb) |
+| `week2_root_finding_worked.ipynb` | Worked solutions to root-finding | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_root_finding_worked.ipynb) |
 | `week2_fitting.ipynb` | Least squares and χ²: fitting the Lancaster Quay tide, `curve_fit`, χ² scans, judging a fit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_fitting.ipynb) |
+| `week2_fitting_worked.ipynb` | Worked solutions to fitting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_fitting_worked.ipynb) |
 | `week2_code_and_plots.ipynb` | Reference: writing good code and making good plots. Use it for Exercise 1 and beyond | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_code_and_plots.ipynb) |
 | `week2_code_and_plots_worked.ipynb` | Worked solutions to the code-and-plots reference | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week2/week2_code_and_plots_worked.ipynb) |
 
@@ -89,7 +93,9 @@ Each notebook starts with a short guide to the core sections, what to do first i
 | Notebook | Content | |
 | --- | --- | --- |
 | `week3_interpolation.ipynb` | Filling gaps in the Mauna Loa CO₂ record, Runge's phenomenon, extrapolation and its traps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week3/week3_interpolation.ipynb) |
+| `week3_interpolation_worked.ipynb` | Worked solutions to interpolation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week3/week3_interpolation_worked.ipynb) |
 | `week3_derivatives_integrals.ipynb` | Finite differences and round-off, the CO₂ growth rate, differentiating noisy data, trapezoid and Simpson, the pendulum period | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week3/week3_derivatives_integrals.ipynb) |
+| `week3_derivatives_integrals_worked.ipynb` | Worked solutions to derivatives and integrals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week3/week3_derivatives_integrals_worked.ipynb) |
 
 ## Week 4 workshop
 
@@ -98,6 +104,7 @@ Start with the Python toolkit if masks, random numbers, `scipy.stats` or pandas 
 | Notebook | Content | |
 | --- | --- | --- |
 | `week4_python_toolkit.ipynb` | Start here (15 min): masks and slices, reproducible random numbers, `scipy.stats`, one row per group with pandas; then six optional practice exercises | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_python_toolkit.ipynb) |
+| `week4_python_toolkit_worked.ipynb` | Worked solutions to the Week 4 Python toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_python_toolkit_worked.ipynb) |
 | `week4_how_sure.ipynb` | How sure are we? Cavendish's density of the Earth, glitches in a time-ordered record, Michelson's speed of light; optional: propagating uncertainty into g by Monte Carlo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week4/week4_how_sure.ipynb) |
 
 ## Week 5 workshop
@@ -107,6 +114,7 @@ Start with the Python toolkit if `rfft`, `spectrogram`, `welch` or `np.roll` are
 | Notebook | Content | |
 | --- | --- | --- |
 | `week5_python_toolkit.ipynb` | Start here (15 min): spectra with `rfft`, spectra in windows and their average (`spectrogram`, `welch`), uneven times to a regular grid, shifting a signal with `np.roll`, timing code; then optional practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week5/week5_python_toolkit.ipynb) |
+| `week5_python_toolkit_worked.ipynb` | Worked solutions to the Week 5 Python toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week5/week5_python_toolkit_worked.ipynb) |
 | `week5_rhythms.ipynb` | Rhythms: are successive values independent? Which frequencies, and when (the short-time Fourier transform and averaged spectra); from beat times to a regular series; is a relationship real? (cross-correlation and surrogates); optional: bootstrap for groups, the tide | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week5/week5_rhythms.ipynb) |
 
 ## Coursework
