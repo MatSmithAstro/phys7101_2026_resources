@@ -117,6 +117,15 @@ Start with the Python toolkit if `rfft`, `spectrogram`, `welch` or `np.roll` are
 | `week5_python_toolkit_worked.ipynb` | Worked solutions to the Week 5 Python toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week5/week5_python_toolkit_worked.ipynb) |
 | `week5_rhythms.ipynb` | Rhythms: are successive values independent? Which frequencies, and when (the short-time Fourier transform and averaged spectra); from beat times to a regular series; is a relationship real? (cross-correlation and surrogates); optional: bootstrap for groups, the tide | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week5/week5_rhythms.ipynb) |
 
+## Week 6 workshop
+
+The in-class assessment runs during this lab, so the notebook is designed to work through on your own: a short core, a check after every task, and hints. Start with the Python toolkit if standardising, `PCA`, `KMeans` or `pd.crosstab` are new to you.
+
+| Notebook | Content | |
+| --- | --- | --- |
+| `week6_python_toolkit.ipynb` | Start here (15 min): standardising, principal components with `np.linalg.svd` and scikit-learn, `KMeans`, comparing clusters with labels; then optional practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week6/week6_python_toolkit.ipynb) |
+| `week6_structure.ipynb` | Structure in many dimensions: why standardise (wine), principal components and the noise floor, k-means checked against the truth: stars, galaxies and quasars from the Sloan Digital Sky Survey | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week6/week6_structure.ipynb) |
+
 ## Coursework
 
 | Exercise | Brief and starting notebook | |
