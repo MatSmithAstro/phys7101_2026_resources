@@ -124,6 +124,7 @@ The in-class assessment runs during this lab, so the notebook is designed to wor
 | Notebook | Content | |
 | --- | --- | --- |
 | `week6_python_toolkit.ipynb` | Start here (15 min): standardising, principal components with `np.linalg.svd` and scikit-learn, `KMeans`, comparing clusters with labels; then optional practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week6/week6_python_toolkit.ipynb) |
+| `week6_python_toolkit_worked.ipynb` | Worked solutions to the Week 6 Python toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week6/week6_python_toolkit_worked.ipynb) |
 | `week6_structure.ipynb` | Structure in many dimensions: why standardise (wine), principal components and the noise floor, k-means checked against the truth: stars, galaxies and quasars from the Sloan Digital Sky Survey | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week6/week6_structure.ipynb) |
 
 ## Coursework
