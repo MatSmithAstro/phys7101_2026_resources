@@ -19,3 +19,6 @@ Untitled*.ipynb
 
 # Drafts that are not ready to publish
 drafts/
+
+# Lecturers' own versions with notes
+lectures/*_notes.pdf

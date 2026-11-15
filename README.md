@@ -129,6 +129,15 @@ The in-class assessment runs during this lab, so the notebook is designed to wor
 | `week6_python_toolkit_worked.ipynb` | Worked solutions to the Week 6 Python toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week6/week6_python_toolkit_worked.ipynb) |
 | `week6_structure.ipynb` | Structure in many dimensions: why standardise (wine), principal components and the noise floor, k-means checked against the truth: stars, galaxies and quasars from the Sloan Digital Sky Survey | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week6/week6_structure.ipynb) |
 
+## Week 7 workshop
+
+Exercise 2 is due this Friday, so this lab is short: the core takes about an hour. Start with the Python toolkit if random numbers, log-probabilities or percentiles are new to you.
+
+| Notebook | Content | |
+| --- | --- | --- |
+| `week7_python_toolkit.ipynb` | Start here (15 min): reproducible random numbers, why we work with log-probabilities, `-np.inf` for "impossible", percentiles and credible intervals, autocorrelation and the effective number of samples; then optional practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week7/week7_python_toolkit.ipynb) |
+| `week7_mcmc.ipynb` | Sampling the posterior: write your own Metropolis–Hastings sampler, check it (burn-in, step width, effective sample size), and read off credible intervals for the growth of a sunflower; then make the measurement uncertainty a parameter too. Optional: `emcee`, several chains, does the prior matter? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week7/week7_mcmc.ipynb) |
+
 ## Coursework
 
 | Exercise | Brief and starting notebook | |
