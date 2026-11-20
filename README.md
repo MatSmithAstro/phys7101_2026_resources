@@ -139,6 +139,15 @@ Exercise 2 is due this Friday, so this lab is short: the core takes about an hou
 | `week7_python_toolkit_worked.ipynb` | Worked solutions to the Week 7 Python toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week7/week7_python_toolkit_worked.ipynb) |
 | `week7_mcmc.ipynb` | Sampling the posterior: write your own Metropolis–Hastings sampler, check it (burn-in, step width, effective sample size), and read off credible intervals for the growth of a sunflower; then make the measurement uncertainty a parameter too. Optional: `emcee` checked with ArviZ (as in Lecture 9), several chains, does the prior matter? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week7/week7_mcmc.ipynb) |
 
+## Week 8 workshop
+
+Exercise 2 is due at 4pm on Thursday 26 November, so spend this lab on it if you need to. Otherwise: the Python toolkit, then the lab notebook (its core takes about 75 minutes). Together they are the data-driven half of Exercise 3, practised on data you know from Week 6.
+
+| Notebook | Content | |
+| --- | --- | --- |
+| `week8_python_toolkit.ipynb` | Start here (20 min): training and test sets, pipelines with `StandardScaler`, cross-validation and holding out whole groups (`GroupKFold`), decision trees, random forests and nearest neighbours, precision and recall, regression and extrapolation, permutation importance; then optional practice | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week8/week8_python_toolkit.ipynb) |
+| `week8_learning.ipynb` | Learning from labelled data: classify stars, galaxies and quasars from SDSS colours with a tree, nearest neighbours and a forest; judge them honestly on the real sky, where quasars are rare (precision and recall, holding out regions); predict galaxy redshifts and see what happens beyond the training range. Optional: which features matter? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatSmithAstro/phys7101_2026_resources/blob/main/workshops/week8/week8_learning.ipynb) |
+
 ## Coursework
 
 | Exercise | Brief and starting notebook | |

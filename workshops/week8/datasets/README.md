@@ -1,0 +1,7 @@
+# Week 8 datasets
+
+The same two files as Week 6, so the lab can compare learning *with* labels (this week) against finding structure *without* them (Week 6).
+
+**`sdss_balanced.csv`** and **`sdss_sky.csv`**: stars, galaxies and quasars from the Sloan Digital Sky Survey (SDSS) Data Release 17, each with a spectrum that gives its true class and redshift. Columns: position (`ra`, `dec`, degrees); `class` (star, galaxy or qso) and the survey's `subclass`; spectroscopic `redshift` and `redshift_err`; magnitudes `mag_u`, `mag_g`, `mag_r`, `mag_i`, `mag_z` (model magnitudes corrected for dust in our Galaxy) with uncertainties `err_u` … `err_z`; and the size `size_r` (Petrosian radius in the r band, arcsec) with `size_err`.
+Selection: every 100th object (by object ID) with a primary, securely measured spectrum (no redshift warning) and clean photometry, brighter than r = 19; then objects with strong dust extinction (more than 0.3 mag in r), poorly measured magnitudes (uncertainty above 0.05 mag in g, r or i, 0.3 in u, 0.2 in z) or no size uncertainty were removed. `sdss_sky.csv` keeps all 10 947 that remain, in their natural proportions (58% galaxies, 37% stars, 6% quasars); `sdss_balanced.csv` is 600 of each class drawn at random from it.
+Source: SDSS DR17 (Abdurro'uf et al. 2022, *ApJS* **259**, 35), queried through SkyServer, <https://skyserver.sdss.org/dr17>. SDSS data are publicly available; please acknowledge the SDSS when you use them (<https://www.sdss.org/collaboration/citing-sdss/>).
